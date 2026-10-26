@@ -29,15 +29,4 @@ POST   /api/expenses
 DELETE /api/expenses/:id
 ```
 
-## How to Run
-
-```text
-npm install
-npm start
-```
-
-Then open http://localhost:3000
-
-## Author
-
-Jaden Dacanay
+http://localhost:3001/
