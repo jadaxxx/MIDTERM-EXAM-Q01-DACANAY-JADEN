@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Lunch",
+    "category": "Food",
+    "amount": 50,
+    "date": "2026-10-26"
+  },
+  {
+    "id": 2,
+    "description": "Baz",
+    "category": "Dinner",
+    "amount": 100,
+    "date": "2026-10-26"
+  }
+]
